@@ -2,7 +2,7 @@
 export const translations = {
   en: {
     dir: 'ltr',
-    brand: 'TRIGGER.web',
+    brand: 'web.TRIGGER',
     nav: {
       problem: 'Audit Your Site',
       gallery: 'Our Projects',
@@ -83,7 +83,7 @@ export const translations = {
     },
     about: {
       title: 'We are',
-      titleAccent: 'Trigger.web',
+      titleAccent: 'web.Trigger',
       sub: 'A Saudi studio specialized in redesigning websites to transform them from "informational pages" into "strategic assets" that bring customers and achieve growth.',
       mockupTitle: 'Saudi Vision, Global Standards',
       mockupSub: 'Redesigning websites for major corporations and sectors',
@@ -190,13 +190,13 @@ export const translations = {
         contact: 'Contact Us',
         about: 'About Us'
       },
-      copyright: '© 2024 Trigger.web Agency.',
+      copyright: '© 2024 web.Trigger Agency.',
       location: 'Riyadh, Saudi Arabia'
     }
   },
   ar: {
     dir: 'rtl',
-    brand: 'TRIGGER.web',
+    brand: 'web.TRIGGER',
     nav: {
       problem: 'تقييم موقعك',
       gallery: 'مشاريعنا السابقة',
